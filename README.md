@@ -3,5 +3,10 @@ This repository contains python codes for processing, feature extractions, featu
 
 # Dataset
 The dataset used in this experiment comes from the paper titled: **Multivariate time series data of milling processes with varying tool wear and machine tools**
-Paper link - https://www.sciencedirect.com/science/article/pii/S2352340923006741
 
+Paper link - https://www.sciencedirect.com/science/article/pii/S2352340923006741
+# File Descriptions:
+
+**CSVFileGeneration**
+
+This file shows how to convert the H5 files to CSV files for time series analysis.
